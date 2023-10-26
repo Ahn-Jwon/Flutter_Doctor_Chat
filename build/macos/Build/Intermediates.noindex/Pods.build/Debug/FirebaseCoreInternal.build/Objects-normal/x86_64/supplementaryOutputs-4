@@ -1,0 +1,15 @@
+"/Users/ahnjaewon1/project/flutter/team3_flutter_project_self_diagnosis_app/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/WeakContainer.swift":
+  dependencies: "/Users/ahnjaewon1/project/flutter/team3_flutter_project_self_diagnosis_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseCoreInternal.build/Objects-normal/x86_64/WeakContainer.d"
+  swift-dependencies: "/Users/ahnjaewon1/project/flutter/team3_flutter_project_self_diagnosis_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseCoreInternal.build/Objects-normal/x86_64/WeakContainer.swiftdeps"
+  object: "/Users/ahnjaewon1/project/flutter/team3_flutter_project_self_diagnosis_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseCoreInternal.build/Objects-normal/x86_64/WeakContainer.o"
+  diagnostics: "/Users/ahnjaewon1/project/flutter/team3_flutter_project_self_diagnosis_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseCoreInternal.build/Objects-normal/x86_64/WeakContainer.dia"
+"/Users/ahnjaewon1/project/flutter/team3_flutter_project_self_diagnosis_app/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/Storage.swift":
+  object: "/Users/ahnjaewon1/project/flutter/team3_flutter_project_self_diagnosis_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseCoreInternal.build/Objects-normal/x86_64/Storage.o"
+  diagnostics: "/Users/ahnjaewon1/project/flutter/team3_flutter_project_self_diagnosis_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseCoreInternal.build/Objects-normal/x86_64/Storage.dia"
+  dependencies: "/Users/ahnjaewon1/project/flutter/team3_flutter_project_self_diagnosis_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseCoreInternal.build/Objects-normal/x86_64/Storage.d"
+  swift-dependencies: "/Users/ahnjaewon1/project/flutter/team3_flutter_project_self_diagnosis_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseCoreInternal.build/Objects-normal/x86_64/Storage.swiftdeps"
+"/Users/ahnjaewon1/project/flutter/team3_flutter_project_self_diagnosis_app/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/StorageFactory.swift":
+  object: "/Users/ahnjaewon1/project/flutter/team3_flutter_project_self_diagnosis_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseCoreInternal.build/Objects-normal/x86_64/StorageFactory.o"
+  dependencies: "/Users/ahnjaewon1/project/flutter/team3_flutter_project_self_diagnosis_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseCoreInternal.build/Objects-normal/x86_64/StorageFactory.d"
+  swift-dependencies: "/Users/ahnjaewon1/project/flutter/team3_flutter_project_self_diagnosis_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseCoreInternal.build/Objects-normal/x86_64/StorageFactory.swiftdeps"
+  diagnostics: "/Users/ahnjaewon1/project/flutter/team3_flutter_project_self_diagnosis_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseCoreInternal.build/Objects-normal/x86_64/StorageFactory.dia"

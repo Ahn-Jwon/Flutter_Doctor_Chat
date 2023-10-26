@@ -1,0 +1,23 @@
+{
+  'version': 0,
+  'use-external-names': 'false',
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/ahnjaewon1/project/flutter/team3_flutter_project_self_diagnosis_app/build/macos/Build/Products/Debug/FirebaseCoreInternal/FirebaseCoreInternal.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/ahnjaewon1/project/flutter/team3_flutter_project_self_diagnosis_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseCoreInternal.build/unextended-module.modulemap",
+    }]
+    },
+    {
+    'type': 'directory',
+    'name': "/Users/ahnjaewon1/project/flutter/team3_flutter_project_self_diagnosis_app/build/macos/Build/Products/Debug/FirebaseCoreInternal/FirebaseCoreInternal.framework/Headers"
+    'contents': [{
+      'type': 'file',
+      'name': "FirebaseCoreInternal-Swift.h",
+      'external-contents': "/Users/ahnjaewon1/project/flutter/team3_flutter_project_self_diagnosis_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseCoreInternal.build/unextended-interface-header.h",
+    }]
+    }]
+}

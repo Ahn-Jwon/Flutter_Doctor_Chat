@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "668180c9400d6d39df399afc8a821bab00d9a49262a67b8b7db55b9d39a3aa17"
+build_start_time: [1696850475, 835537000]
+build_end_time: [1696850476, 18991000]
+inputs:
+  "/Users/ahnjaewon1/project/flutter/team3_flutter_project_self_diagnosis_app/macos/Flutter/GeneratedPluginRegistrant.swift": !private [1696848892, 281069692]
+  "/Users/ahnjaewon1/project/flutter/team3_flutter_project_self_diagnosis_app/macos/Runner/AppDelegate.swift": !private [1691456667, 830110331]
+  "/Users/ahnjaewon1/project/flutter/team3_flutter_project_self_diagnosis_app/macos/Runner/MainFlutterWindow.swift": !private [1691456667, 833327182]

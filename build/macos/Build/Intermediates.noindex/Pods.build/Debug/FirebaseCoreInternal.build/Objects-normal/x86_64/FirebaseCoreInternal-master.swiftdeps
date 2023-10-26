@@ -1,0 +1,29 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "0450cc2548c21c3f35520d5d204690eb9bd904150a4c08cd7050f3c474373130"
+build_start_time: [1696849671, 777777000]
+build_end_time: [1696849842, 903220000]
+inputs:
+  ? "/Users/ahnjaewon1/project/flutter/team3_flutter_project_self_diagnosis_app/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/Heartbeat.swift"
+  : [1696849221, 136886582]
+  ? "/Users/ahnjaewon1/project/flutter/team3_flutter_project_self_diagnosis_app/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatController.swift"
+  : [1696849221, 138039275]
+  ? "/Users/ahnjaewon1/project/flutter/team3_flutter_project_self_diagnosis_app/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatLoggingTestUtils.swift"
+  : [1696849221, 138871084]
+  ? "/Users/ahnjaewon1/project/flutter/team3_flutter_project_self_diagnosis_app/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatStorage.swift"
+  : [1696849221, 139328606]
+  ? "/Users/ahnjaewon1/project/flutter/team3_flutter_project_self_diagnosis_app/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatsBundle.swift"
+  : [1696849221, 140313332]
+  ? "/Users/ahnjaewon1/project/flutter/team3_flutter_project_self_diagnosis_app/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatsPayload.swift"
+  : [1696849221, 142953603]
+  ? "/Users/ahnjaewon1/project/flutter/team3_flutter_project_self_diagnosis_app/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/RingBuffer.swift"
+  : [1696849221, 137248639]
+  ? "/Users/ahnjaewon1/project/flutter/team3_flutter_project_self_diagnosis_app/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/Storage.swift"
+  : [1696849221, 136490000]
+  ? "/Users/ahnjaewon1/project/flutter/team3_flutter_project_self_diagnosis_app/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/StorageFactory.swift"
+  : [1696849221, 143432849]
+  ? "/Users/ahnjaewon1/project/flutter/team3_flutter_project_self_diagnosis_app/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/WeakContainer.swift"
+  : [1696849221, 141320440]
+  ? "/Users/ahnjaewon1/project/flutter/team3_flutter_project_self_diagnosis_app/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/_ObjC_HeartbeatController.swift"
+  : [1696849221, 137636031]
+  ? "/Users/ahnjaewon1/project/flutter/team3_flutter_project_self_diagnosis_app/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/_ObjC_HeartbeatsPayload.swift"
+  : [1696849221, 138399090]

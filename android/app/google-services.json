@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "353061210823",
+    "project_id": "team-flutter-project",
+    "storage_bucket": "team-flutter-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353061210823:android:090f39be8410e4910fcce2",
+        "android_client_info": {
+          "package_name": "com.example.team3_flutter_project_self_diagnosis_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "353061210823-tk4m9r7gra7p9s4tkcbm5p2idt1qhblr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqg5NYcwaXf3Yo_WNl0VulYsjd_OeI3Fs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "353061210823-tk4m9r7gra7p9s4tkcbm5p2idt1qhblr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

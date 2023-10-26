@@ -1,0 +1,51 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "16c0205499b92ca693d941f55579fbd94f2d18ea6874766ca495501dd8ce6e0b"
+build_start_time: [1696849842, 626925000]
+build_end_time: [1696849842, 917393000]
+inputs:
+  ? "/Users/ahnjaewon1/project/flutter/team3_flutter_project_self_diagnosis_app/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/AsyncAwait.swift"
+  : !private [1696849253, 287965862]
+  ? "/Users/ahnjaewon1/project/flutter/team3_flutter_project_self_diagnosis_app/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/Internal/StorageDeleteTask.swift"
+  : !private [1696849253, 283455116]
+  ? "/Users/ahnjaewon1/project/flutter/team3_flutter_project_self_diagnosis_app/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/Internal/StorageGetDownloadURLTask.swift"
+  : !private [1696849253, 284476928]
+  ? "/Users/ahnjaewon1/project/flutter/team3_flutter_project_self_diagnosis_app/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/Internal/StorageGetMetadataTask.swift"
+  : !private [1696849253, 286724060]
+  ? "/Users/ahnjaewon1/project/flutter/team3_flutter_project_self_diagnosis_app/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/Internal/StorageListTask.swift"
+  : !private [1696849253, 287451039]
+  ? "/Users/ahnjaewon1/project/flutter/team3_flutter_project_self_diagnosis_app/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/Internal/StoragePath.swift"
+  : !private [1696849253, 284043632]
+  ? "/Users/ahnjaewon1/project/flutter/team3_flutter_project_self_diagnosis_app/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/Internal/StorageTaskState.swift"
+  : !private [1696849253, 285701386]
+  ? "/Users/ahnjaewon1/project/flutter/team3_flutter_project_self_diagnosis_app/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/Internal/StorageTokenAuthorizer.swift"
+  : !private [1696849253, 286173719]
+  ? "/Users/ahnjaewon1/project/flutter/team3_flutter_project_self_diagnosis_app/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/Internal/StorageUpdateMetadataTask.swift"
+  : !private [1696849253, 285246696]
+  ? "/Users/ahnjaewon1/project/flutter/team3_flutter_project_self_diagnosis_app/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/Internal/StorageUtils.swift"
+  : !private [1696849253, 284841215]
+  ? "/Users/ahnjaewon1/project/flutter/team3_flutter_project_self_diagnosis_app/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/Result.swift"
+  : !private [1696849253, 282809078]
+  ? "/Users/ahnjaewon1/project/flutter/team3_flutter_project_self_diagnosis_app/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/Storage.swift"
+  : !private [1696849253, 279814623]
+  ? "/Users/ahnjaewon1/project/flutter/team3_flutter_project_self_diagnosis_app/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/StorageComponent.swift"
+  : !private [1696849253, 281923146]
+  ? "/Users/ahnjaewon1/project/flutter/team3_flutter_project_self_diagnosis_app/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/StorageConstants.swift"
+  : !private [1696849253, 289357280]
+  ? "/Users/ahnjaewon1/project/flutter/team3_flutter_project_self_diagnosis_app/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/StorageDownloadTask.swift"
+  : !private [1696849253, 281051942]
+  ? "/Users/ahnjaewon1/project/flutter/team3_flutter_project_self_diagnosis_app/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/StorageError.swift"
+  : !private [1696849253, 291314697]
+  ? "/Users/ahnjaewon1/project/flutter/team3_flutter_project_self_diagnosis_app/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/StorageListResult.swift"
+  : !private [1696849253, 281483904]
+  ? "/Users/ahnjaewon1/project/flutter/team3_flutter_project_self_diagnosis_app/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/StorageMetadata.swift"
+  : !private [1696849253, 288926953]
+  ? "/Users/ahnjaewon1/project/flutter/team3_flutter_project_self_diagnosis_app/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/StorageObservableTask.swift"
+  : !private [1696849253, 280626612]
+  ? "/Users/ahnjaewon1/project/flutter/team3_flutter_project_self_diagnosis_app/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/StorageReference.swift"
+  : !private [1696849253, 289824227]
+  ? "/Users/ahnjaewon1/project/flutter/team3_flutter_project_self_diagnosis_app/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/StorageTask.swift"
+  : !private [1696849253, 282342189]
+  ? "/Users/ahnjaewon1/project/flutter/team3_flutter_project_self_diagnosis_app/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/StorageTaskSnapshot.swift"
+  : !private [1696849253, 280212167]
+  ? "/Users/ahnjaewon1/project/flutter/team3_flutter_project_self_diagnosis_app/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/StorageUploadTask.swift"
+  : !private [1696849253, 288421611]

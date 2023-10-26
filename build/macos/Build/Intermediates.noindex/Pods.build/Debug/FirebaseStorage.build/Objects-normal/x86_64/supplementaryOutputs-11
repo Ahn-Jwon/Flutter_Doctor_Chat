@@ -1,0 +1,30 @@
+"/Users/ahnjaewon1/project/flutter/team3_flutter_project_self_diagnosis_app/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/StorageReference.swift":
+  object: "/Users/ahnjaewon1/project/flutter/team3_flutter_project_self_diagnosis_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/x86_64/StorageReference.o"
+  swift-dependencies: "/Users/ahnjaewon1/project/flutter/team3_flutter_project_self_diagnosis_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/x86_64/StorageReference.swiftdeps"
+  diagnostics: "/Users/ahnjaewon1/project/flutter/team3_flutter_project_self_diagnosis_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/x86_64/StorageReference.dia"
+  dependencies: "/Users/ahnjaewon1/project/flutter/team3_flutter_project_self_diagnosis_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/x86_64/StorageReference.d"
+"/Users/ahnjaewon1/project/flutter/team3_flutter_project_self_diagnosis_app/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/StorageObservableTask.swift":
+  diagnostics: "/Users/ahnjaewon1/project/flutter/team3_flutter_project_self_diagnosis_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/x86_64/StorageObservableTask.dia"
+  object: "/Users/ahnjaewon1/project/flutter/team3_flutter_project_self_diagnosis_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/x86_64/StorageObservableTask.o"
+  dependencies: "/Users/ahnjaewon1/project/flutter/team3_flutter_project_self_diagnosis_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/x86_64/StorageObservableTask.d"
+  swift-dependencies: "/Users/ahnjaewon1/project/flutter/team3_flutter_project_self_diagnosis_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/x86_64/StorageObservableTask.swiftdeps"
+"/Users/ahnjaewon1/project/flutter/team3_flutter_project_self_diagnosis_app/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/Internal/StoragePath.swift":
+  object: "/Users/ahnjaewon1/project/flutter/team3_flutter_project_self_diagnosis_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/x86_64/StoragePath.o"
+  swift-dependencies: "/Users/ahnjaewon1/project/flutter/team3_flutter_project_self_diagnosis_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/x86_64/StoragePath.swiftdeps"
+  dependencies: "/Users/ahnjaewon1/project/flutter/team3_flutter_project_self_diagnosis_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/x86_64/StoragePath.d"
+  diagnostics: "/Users/ahnjaewon1/project/flutter/team3_flutter_project_self_diagnosis_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/x86_64/StoragePath.dia"
+"/Users/ahnjaewon1/project/flutter/team3_flutter_project_self_diagnosis_app/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/StorageMetadata.swift":
+  dependencies: "/Users/ahnjaewon1/project/flutter/team3_flutter_project_self_diagnosis_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/x86_64/StorageMetadata.d"
+  swift-dependencies: "/Users/ahnjaewon1/project/flutter/team3_flutter_project_self_diagnosis_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/x86_64/StorageMetadata.swiftdeps"
+  diagnostics: "/Users/ahnjaewon1/project/flutter/team3_flutter_project_self_diagnosis_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/x86_64/StorageMetadata.dia"
+  object: "/Users/ahnjaewon1/project/flutter/team3_flutter_project_self_diagnosis_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/x86_64/StorageMetadata.o"
+"/Users/ahnjaewon1/project/flutter/team3_flutter_project_self_diagnosis_app/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/StorageTask.swift":
+  swift-dependencies: "/Users/ahnjaewon1/project/flutter/team3_flutter_project_self_diagnosis_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/x86_64/StorageTask.swiftdeps"
+  object: "/Users/ahnjaewon1/project/flutter/team3_flutter_project_self_diagnosis_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/x86_64/StorageTask.o"
+  dependencies: "/Users/ahnjaewon1/project/flutter/team3_flutter_project_self_diagnosis_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/x86_64/StorageTask.d"
+  diagnostics: "/Users/ahnjaewon1/project/flutter/team3_flutter_project_self_diagnosis_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/x86_64/StorageTask.dia"
+"/Users/ahnjaewon1/project/flutter/team3_flutter_project_self_diagnosis_app/macos/Pods/FirebaseStorage/FirebaseStorage/Sources/StorageTaskSnapshot.swift":
+  dependencies: "/Users/ahnjaewon1/project/flutter/team3_flutter_project_self_diagnosis_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/x86_64/StorageTaskSnapshot.d"
+  object: "/Users/ahnjaewon1/project/flutter/team3_flutter_project_self_diagnosis_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/x86_64/StorageTaskSnapshot.o"
+  swift-dependencies: "/Users/ahnjaewon1/project/flutter/team3_flutter_project_self_diagnosis_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/x86_64/StorageTaskSnapshot.swiftdeps"
+  diagnostics: "/Users/ahnjaewon1/project/flutter/team3_flutter_project_self_diagnosis_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseStorage.build/Objects-normal/x86_64/StorageTaskSnapshot.dia"

@@ -1,0 +1,15 @@
+"/Users/ahnjaewon1/project/flutter/team3_flutter_project_self_diagnosis_app/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/RingBuffer.swift":
+  dependencies: "/Users/ahnjaewon1/project/flutter/team3_flutter_project_self_diagnosis_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseCoreInternal.build/Objects-normal/x86_64/RingBuffer.d"
+  diagnostics: "/Users/ahnjaewon1/project/flutter/team3_flutter_project_self_diagnosis_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseCoreInternal.build/Objects-normal/x86_64/RingBuffer.dia"
+  object: "/Users/ahnjaewon1/project/flutter/team3_flutter_project_self_diagnosis_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseCoreInternal.build/Objects-normal/x86_64/RingBuffer.o"
+  swift-dependencies: "/Users/ahnjaewon1/project/flutter/team3_flutter_project_self_diagnosis_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseCoreInternal.build/Objects-normal/x86_64/RingBuffer.swiftdeps"
+"/Users/ahnjaewon1/project/flutter/team3_flutter_project_self_diagnosis_app/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatsPayload.swift":
+  dependencies: "/Users/ahnjaewon1/project/flutter/team3_flutter_project_self_diagnosis_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseCoreInternal.build/Objects-normal/x86_64/HeartbeatsPayload.d"
+  diagnostics: "/Users/ahnjaewon1/project/flutter/team3_flutter_project_self_diagnosis_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseCoreInternal.build/Objects-normal/x86_64/HeartbeatsPayload.dia"
+  swift-dependencies: "/Users/ahnjaewon1/project/flutter/team3_flutter_project_self_diagnosis_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseCoreInternal.build/Objects-normal/x86_64/HeartbeatsPayload.swiftdeps"
+  object: "/Users/ahnjaewon1/project/flutter/team3_flutter_project_self_diagnosis_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseCoreInternal.build/Objects-normal/x86_64/HeartbeatsPayload.o"
+"/Users/ahnjaewon1/project/flutter/team3_flutter_project_self_diagnosis_app/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatStorage.swift":
+  swift-dependencies: "/Users/ahnjaewon1/project/flutter/team3_flutter_project_self_diagnosis_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseCoreInternal.build/Objects-normal/x86_64/HeartbeatStorage.swiftdeps"
+  object: "/Users/ahnjaewon1/project/flutter/team3_flutter_project_self_diagnosis_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseCoreInternal.build/Objects-normal/x86_64/HeartbeatStorage.o"
+  dependencies: "/Users/ahnjaewon1/project/flutter/team3_flutter_project_self_diagnosis_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseCoreInternal.build/Objects-normal/x86_64/HeartbeatStorage.d"
+  diagnostics: "/Users/ahnjaewon1/project/flutter/team3_flutter_project_self_diagnosis_app/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseCoreInternal.build/Objects-normal/x86_64/HeartbeatStorage.dia"
